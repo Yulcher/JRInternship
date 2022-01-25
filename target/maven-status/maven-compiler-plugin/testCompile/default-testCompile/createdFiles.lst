@@ -1,0 +1,10 @@
+com\game\controller\GetAllTest$1.class
+com\game\controller\GetPlayerTest.class
+com\game\controller\CreatePlayerTest.class
+com\game\controller\utils\PlayerInfoTest.class
+com\game\controller\AbstractTest.class
+com\game\controller\UpdatePlayerTest.class
+com\game\controller\DeletePlayerTest.class
+com\game\controller\utils\TestsHelper.class
+com\game\controller\GetAllTest.class
+com\game\controller\GetCountTest.class

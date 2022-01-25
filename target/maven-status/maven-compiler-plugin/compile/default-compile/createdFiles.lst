@@ -1,0 +1,6 @@
+com\game\config\WebConfig.class
+com\game\config\MyWebAppInit.class
+com\game\entity\Race.class
+com\game\entity\Profession.class
+com\game\config\AppConfig.class
+com\game\controller\PlayerOrder.class
